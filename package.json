@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-cloudsaid",
+  "version": "1.0.0",
+  "description": "ESLint configuration for Cloudsaid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/generalandrew/eslint-config-cloudsaid.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Andrew <generalandrew@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/generalandrew/eslint-config-cloudsaid/issues"
+  },
+  "homepage": "https://github.com/generalandrew/eslint-config-cloudsaid#readme"
+}
